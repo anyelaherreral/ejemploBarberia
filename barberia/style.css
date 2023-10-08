@@ -30,8 +30,9 @@ em strong{
 }
 
 .diferenciales{
-    background: #fffdfdd2;
-    padding: 30px;
+    background: rgb(153, 153, 153);
+    padding: 80px;
+    text-align: center;
 }
 
 .items{
